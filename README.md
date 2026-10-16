@@ -69,8 +69,8 @@ and potential areas for improvement.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyasshankarachar&show_icons=true&theme=default&hide_border=true" alt="Shreyas's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasshankarachar&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/shreyasshankarachar?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/shreyasshankarachar/REPO-NAME?label=Stars&style=for-the-badge&logo=github" alt="Stars" />
 </p>
 
 ---
