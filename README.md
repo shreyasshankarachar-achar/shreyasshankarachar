@@ -66,14 +66,6 @@ and potential areas for improvement.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/shreyasshankarachar?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/shreyasshankarachar/REPO-NAME?label=Stars&style=for-the-badge&logo=github" alt="Stars" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
