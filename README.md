@@ -1,2 +1,74 @@
-# shreyasshankarachar
-A Little About Me📝
+# Hi, I'm Shreyas 👋
+
+**MBA Candidate (Finance & Business Analytics) | Aspiring Product Manager**
+
+I'm an MBA student at **B.M.S. College of Engineering, Bengaluru**, with a B.Com from Surana Autonomous College. I enjoy working where finance, data, and product thinking meet, and I'm looking for placement opportunities in **product management**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyasshankarachar)
+
+---
+
+## 🎯 What I'm Looking For
+
+- Product Management roles (associate / trainee / intern-to-full-time)
+- Teams where I can combine business analysis, finance, and user insight to make product decisions
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Learning-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Domains:** Finance · Business Analytics · Entrepreneurship · Strategic Management
+
+## 📚 Currently Learning
+
+- 🔹 **SQL**: querying and analysing data
+- 🔹 Product management fundamentals
+- 🔹 Deeper data analysis and dashboarding in Power BI
+
+## 🔬 Featured Project
+
+### Impact of Social Media on Circular Fashion Adoption among Gen Z
+An academic research study examining how social media influences Gen Z's attitudes toward circular fashion (resale, rental, and second-hand clothing).
+
+- Primary survey of **116 respondents**
+- Statistical analysis of the data to test relationships between social media exposure and adoption behaviour
+- **Focus areas:** consumer behaviour, sustainability, digital influence
+
+## 💼 Experience
+
+### Finance & Operations Intern | Jan 2025 – Mar 2025
+- Coordinated daily operational activities and tracked **10–15 tasks per week**, supporting timely completion of assigned responsibilities.
+- Collaborated with **3–5 team members** to coordinate information, monitor task progress, and support cross-functional workflow efficiency.
+
+## 🎓 Education
+
+| Degree | Institution |
+|---|---|
+| MBA (Finance & Business Analytics) | B.M.S. College of Engineering, Bengaluru |
+| B.Com | Surana Autonomous College |
+
+## 🏅 Certifications & Achievements
+
+- NSIM Participation
+- National Financial Literacy Quiz Certificate
+- Young Professionals, TCS iON
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyasshankarachar&show_icons=true&theme=default&hide_border=true" alt="Shreyas's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasshankarachar&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about product, finance, and analytics. Reach out on [LinkedIn](https://www.linkedin.com/in/shreyasshankarachar).
+
+⭐ If you find something here useful, a star on a repo is always appreciated!
