@@ -58,7 +58,7 @@ and potential areas for improvement.
 
 ## 🏅 Certifications & Achievements
 
-- NSIM Participation National Financial Literacy Quiz Certificate
+- NISM Participation National Financial Literacy Quiz Certificate
 - Power BI (Basic)
 - Excel (Basic)
 - Young Professionals, TCS iON
