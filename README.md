@@ -42,6 +42,12 @@ An academic research study examining how social media influences Gen Z's attitud
 ### Finance & Operations Intern | Jan 2025 – Mar 2025
 - Coordinated daily operational activities and tracked **10–15 tasks per week**, supporting timely completion of assigned responsibilities.
 - Collaborated with **3–5 team members** to coordinate information, monitor task progress, and support cross-functional workflow efficiency.
+### MBA Intern | Aug 2026
+- Organisation Study 
+- Conducted an organizational and industry analysis using the McKinsey 7S Framework and Porter’s Five Forces Model to evaluate
+business strategy, organizational structure, and competitive positioning.
+- Performed SWOT Analysis to assess organizational strengths, weaknesses, opportunities, and threats, identifying business challenges
+and potential areas for improvement.
 
 ## 🎓 Education
 
@@ -52,9 +58,11 @@ An academic research study examining how social media influences Gen Z's attitud
 
 ## 🏅 Certifications & Achievements
 
-- NSIM Participation
-- National Financial Literacy Quiz Certificate
+- NSIM Participation National Financial Literacy Quiz Certificate
+- Power BI (Basic)
+- Excel (Basic)
 - Young Professionals, TCS iON
+- Won National Level Management Fest
 
 ---
 
