@@ -36,6 +36,22 @@ An academic research study examining how social media influences Gen Z's attitud
 - Primary survey of **116 respondents**
 - Statistical analysis of the data to test relationships between social media exposure and adoption behaviour
 - **Focus areas:** consumer behaviour, sustainability, digital influence
+## 💰 NexaVerse Technologies: ₹100 Crore Capital Allocation Plan
+
+Presentation for the RNSIT MBA Kautilya Finance Final Round-7, allocating ₹100 crore of capital for a fictional company.
+
+## 🎪 The Capital Chronicles
+
+- Organised this finance-themed inter-collegiate management fest at BMSCE across four rounds, and created the SVG poster designs and AI image-generation prompts for it.
+
+## ✈️ Zipline: AI-Powered Travel Planning Startup
+
+- Worked on the business plan for a travel-tech startup idea focused on AI trip planning (Bengaluru / UAE).
+
+# 📝 Academic Work
+- Strategic Management study material covering SWOT, Value Chain, Benchmarking and Fred R. David's model
+Model answer script for the MBA206 Entrepreneurship Development paper
+MBA societal project report documenting a placement at Sri Kanteeshwara Swamy Trust, Banashankari
 
 ## 💼 Experience
 
